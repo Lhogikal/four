@@ -111,6 +111,7 @@ html {
 .card .container h1 {
   font-weight: 900;
   font-size: 20px;
+  margin-top: 20px;
 }
 
 .card .container p {
